@@ -1,2 +1,2 @@
-# 07---automatic-scraper
-scrapes BBC.com's headlines
+# automatic-scraper
+Scraping BBC.com's headlines
